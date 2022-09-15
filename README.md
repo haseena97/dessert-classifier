@@ -12,8 +12,9 @@ I deployed the model on [HuggingFace Spaces with Gradio](https://huggingface.co/
 
 
 
-I was able to get the model to predict the name of the dessert with **94% accuracy** after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34.
+I was able to get the model to predict the name of the dessert with **94% accuracy** after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34.<br>
 ![fine tune](https://user-images.githubusercontent.com/71859510/190294716-0a6aeaec-eed7-4789-9c7a-dcdc0dc2942d.PNG)
+
 
 ## Codes and Resources Used
 I used Google Colab for this project as it makes the GPU configuration far easier<br>

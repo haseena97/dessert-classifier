@@ -23,5 +23,5 @@ I used Google Colab for this project as it makes the GPU configuration far easie
 ## Data
 I used [FatKun Batch Download Image](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf) chrome extension to download the data from google images as recommended in the tutorial.
 
-## Step 1: Build image classifier
-## Step 2: Build Gradio interface
+
+

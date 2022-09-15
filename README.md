@@ -1,6 +1,6 @@
 # Malaysian Dessert Classifier - Project Overview
 
-Kuih are traditional sweet or savoury cakes in Malaysia.They usually come in bite-sized form and are either sweet or savoury.
+Kuih are traditional sweet or savoury cakes in Malaysia. They usually come in bite-sized form and are either sweet or savoury.<br>
 ![image](https://user-images.githubusercontent.com/71859510/190304266-853bc71c-a25d-4cb9-8af2-3529352a04f1.png)<br>
 
 I built a simple web app with dessert classifier to identify the name of Malaysian desserts. This could be useful for tourists unfamiliar with Malaysian food. They could take a picture of a dessert and the app serve them some information about the ingredients (to check for food allergens), calories and whether the dessert is sweet or savoury.
